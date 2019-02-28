@@ -5,10 +5,13 @@ ruby '2.6.0'
 
 gem 'awesome_print'
 gem 'bcrypt'
+gem 'devise'
+gem 'devise-bootstrap-views'
 gem 'hirb'
 gem 'jquery-rails'
 gem 'rubocop'
 gem 'solargraph'
+gem 'twitter-bootstrap-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
